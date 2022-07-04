@@ -1,0 +1,8 @@
+body{
+    background-color: aquamarine;
+    max-width: 400px;
+    margin: 0 auto;
+}
+textarea{
+    resize: none;
+}
